@@ -16,13 +16,13 @@ h5{
 .col-lg-4{
     border: 1px solid black;
     height: 300px;
-    overflow: hidden;
+    overflow: scroll;
     padding: 0px;
 }
 .col-md-6{
     border: 1px solid black;
     height: 300px;
-    overflow: hidden;
+    overflow: scroll;
     padding: 0px;
 }
 @media (min-width : 992px){
