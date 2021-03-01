@@ -1,0 +1,70 @@
+#header-nav{
+    
+    background-color:grey;
+    height:100px;
+       
+}
+#heading{
+    font-size: 40px;
+    margin-bottom: 120px;
+
+}
+
+#chicken{
+    background-color: green;
+    margin-bottom: 12px;
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+
+}
+#beef{
+    background-color:palevioletred;
+    margin-bottom: 12px;
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#sushi{
+    background-color: lightskyblue;
+    margin-bottom: 12px;
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.dropdown {
+    border: 1px solid black;
+}
+
+.dropdown {
+     position: static;
+     
+
+     }
+.dropdown-menu {
+     width: 100%; 
+     text-align: center; 
+     background-color: aqua;
+
+    }
+@media(min-width:768px){
+
+
+.dropdown {
+    display: none;
+
+        
+    }
+}
+@media(max-width:610px){
+.row{
+    margin: 50px auto 50px auto;
+    
+   }
+  
+}
+
+
+    
+
